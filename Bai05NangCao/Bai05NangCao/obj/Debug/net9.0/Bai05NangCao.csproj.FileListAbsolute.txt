@@ -1,0 +1,14 @@
+D:\C# SGU\BaiTapThucHanh\Bai05NangCao\Bai05NangCao\obj\Debug\net9.0\Bai05NangCao.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# SGU\BaiTapThucHanh\Bai05NangCao\Bai05NangCao\obj\Debug\net9.0\Bai05NangCao.AssemblyInfoInputs.cache
+D:\C# SGU\BaiTapThucHanh\Bai05NangCao\Bai05NangCao\obj\Debug\net9.0\Bai05NangCao.AssemblyInfo.cs
+D:\C# SGU\BaiTapThucHanh\Bai05NangCao\Bai05NangCao\obj\Debug\net9.0\Bai05NangCao.csproj.CoreCompileInputs.cache
+D:\C# SGU\BaiTapThucHanh\Bai05NangCao\Bai05NangCao\bin\Debug\net9.0\Bai05NangCao.exe
+D:\C# SGU\BaiTapThucHanh\Bai05NangCao\Bai05NangCao\bin\Debug\net9.0\Bai05NangCao.deps.json
+D:\C# SGU\BaiTapThucHanh\Bai05NangCao\Bai05NangCao\bin\Debug\net9.0\Bai05NangCao.runtimeconfig.json
+D:\C# SGU\BaiTapThucHanh\Bai05NangCao\Bai05NangCao\bin\Debug\net9.0\Bai05NangCao.dll
+D:\C# SGU\BaiTapThucHanh\Bai05NangCao\Bai05NangCao\bin\Debug\net9.0\Bai05NangCao.pdb
+D:\C# SGU\BaiTapThucHanh\Bai05NangCao\Bai05NangCao\obj\Debug\net9.0\Bai05NangCao.dll
+D:\C# SGU\BaiTapThucHanh\Bai05NangCao\Bai05NangCao\obj\Debug\net9.0\refint\Bai05NangCao.dll
+D:\C# SGU\BaiTapThucHanh\Bai05NangCao\Bai05NangCao\obj\Debug\net9.0\Bai05NangCao.pdb
+D:\C# SGU\BaiTapThucHanh\Bai05NangCao\Bai05NangCao\obj\Debug\net9.0\Bai05NangCao.genruntimeconfig.cache
+D:\C# SGU\BaiTapThucHanh\Bai05NangCao\Bai05NangCao\obj\Debug\net9.0\ref\Bai05NangCao.dll
