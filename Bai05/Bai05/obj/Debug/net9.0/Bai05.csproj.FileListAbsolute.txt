@@ -1,0 +1,14 @@
+D:\C# SGU\BaiTapThucHanh\Bai05\Bai05\bin\Debug\net9.0\Bai05.exe
+D:\C# SGU\BaiTapThucHanh\Bai05\Bai05\bin\Debug\net9.0\Bai05.deps.json
+D:\C# SGU\BaiTapThucHanh\Bai05\Bai05\bin\Debug\net9.0\Bai05.runtimeconfig.json
+D:\C# SGU\BaiTapThucHanh\Bai05\Bai05\bin\Debug\net9.0\Bai05.dll
+D:\C# SGU\BaiTapThucHanh\Bai05\Bai05\bin\Debug\net9.0\Bai05.pdb
+D:\C# SGU\BaiTapThucHanh\Bai05\Bai05\obj\Debug\net9.0\Bai05.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# SGU\BaiTapThucHanh\Bai05\Bai05\obj\Debug\net9.0\Bai05.AssemblyInfoInputs.cache
+D:\C# SGU\BaiTapThucHanh\Bai05\Bai05\obj\Debug\net9.0\Bai05.AssemblyInfo.cs
+D:\C# SGU\BaiTapThucHanh\Bai05\Bai05\obj\Debug\net9.0\Bai05.csproj.CoreCompileInputs.cache
+D:\C# SGU\BaiTapThucHanh\Bai05\Bai05\obj\Debug\net9.0\Bai05.dll
+D:\C# SGU\BaiTapThucHanh\Bai05\Bai05\obj\Debug\net9.0\refint\Bai05.dll
+D:\C# SGU\BaiTapThucHanh\Bai05\Bai05\obj\Debug\net9.0\Bai05.pdb
+D:\C# SGU\BaiTapThucHanh\Bai05\Bai05\obj\Debug\net9.0\Bai05.genruntimeconfig.cache
+D:\C# SGU\BaiTapThucHanh\Bai05\Bai05\obj\Debug\net9.0\ref\Bai05.dll
