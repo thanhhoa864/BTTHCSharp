@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C# SGU\\BaiTapThucHanh\\Bai01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{896F9835-0759-45E8-A8B2-F81FBB39CB14}|Bai01\\Bai01.csproj|d:\\c# sgu\\baitapthuchanh\\bai01\\bai01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{896F9835-0759-45E8-A8B2-F81FBB39CB14}|Bai01\\Bai01.csproj|solutionrelative:bai01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C# SGU\\BaiTapThucHanh\\Bai01\\Bai01\\Program.cs",
+              "RelativeDocumentMoniker": "Bai01\\Program.cs",
+              "ToolTip": "D:\\C# SGU\\BaiTapThucHanh\\Bai01\\Bai01\\Program.cs",
+              "RelativeToolTip": "Bai01\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T07:47:25.478Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
